@@ -1,0 +1,14 @@
+
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="images">
+        <file alias="music-icon-128.ico">images/music-icon-128.ico</file>
+        <file alias="application-image.png">images/application-image.png</file>
+        <file alias="control.png">images/control.png</file>
+        <file alias="control-pause.png">images/control-pause.png</file>
+        <file alias="control-skip.png">images/control-skip.png</file>
+        <file alias="control-skip-180.png">images/control-skip-180.png</file>
+        <file alias="control-stop-square.png">images/control-stop-square.png</file>
+        <file alias="speaker-volume">images/speaker-volume.png</file>
+    </qresource>
+</RCC>
